@@ -9,6 +9,7 @@
         <Product>EdaDemoMessagingContracts</Product>
         <Description>A simple contract implementation to demostrate how to send and consume messages.</Description>
         <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+        <readme>README.md</readme>
     </PropertyGroup>
 
 </Project>
