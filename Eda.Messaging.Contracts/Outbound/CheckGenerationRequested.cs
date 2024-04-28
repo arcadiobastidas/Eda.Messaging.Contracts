@@ -1,3 +1,3 @@
-﻿namespace Eda.Messaging.Contracts;
+﻿namespace Eda.Messaging.Contracts.Outbound;
 
 public record CheckGenerationRequested(Guid Id);
