@@ -1,0 +1,2 @@
+### Event Driven Architecture (EDA) Demo Contracts for Messaging
+This project contains the contracts for the EDA demo. The contracts are used to define the messages that are sent between the services in the EDA demo.
