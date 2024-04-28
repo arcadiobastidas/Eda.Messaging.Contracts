@@ -1,3 +1,3 @@
 ﻿namespace Eda.Messaging.Contracts;
 
-public record CheckGenerationRequested(Guid id);
+public record CheckGenerationRequested(Guid Id);
