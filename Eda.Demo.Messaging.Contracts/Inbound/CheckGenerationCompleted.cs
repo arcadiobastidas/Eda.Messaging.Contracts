@@ -1,4 +1,4 @@
-﻿namespace Eda.Messaging.Contracts.Inbound;
+﻿namespace Eda.Demo.Messaging.Contracts.Inbound;
 
 public record CheckGenerationCompleted
 {

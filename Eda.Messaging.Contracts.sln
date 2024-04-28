@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eda.Messaging.Contracts", "Eda.Messaging.Contracts\Eda.Messaging.Contracts.csproj", "{158774EE-B8B1-4D4E-B978-AF44BC400EB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eda.Demo.Messaging.Contracts", "Eda.Demo.Messaging.Contracts\Eda.Demo.Messaging.Contracts.csproj", "{158774EE-B8B1-4D4E-B978-AF44BC400EB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
